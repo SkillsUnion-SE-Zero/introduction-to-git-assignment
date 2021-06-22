@@ -32,7 +32,7 @@
 Make sure to read the 2 articles listed above on writing good commit messages. And come up with what you think would be a good commit message as an example.
 
 ```
-YOUR ANSWER
+MY ANSWER
 ```
 
 ### 2: Git Commands
@@ -40,7 +40,7 @@ YOUR ANSWER
 1. What is the command to initialize a directory into a Git repository?
 
 ```
-YOUR ANSWER
+MY ANSWER
 ```
 
 2. What is the command to prepare a file to be committed?
